@@ -1,0 +1,8 @@
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\POO 09 de fevereiro- Classes e objetos\bin\Debug\POO 09 de fevereiro- Classes e objetos.exe.config
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\POO 09 de fevereiro- Classes e objetos\bin\Debug\POO 09 de fevereiro- Classes e objetos.exe
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\POO 09 de fevereiro- Classes e objetos\bin\Debug\POO 09 de fevereiro- Classes e objetos.pdb
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\POO 09 de fevereiro- Classes e objetos\obj\Debug\POO 09 de fevereiro- Classes e objetos.csproj.AssemblyReference.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\POO 09 de fevereiro- Classes e objetos\obj\Debug\POO 09 de fevereiro- Classes e objetos.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\POO 09 de fevereiro- Classes e objetos\obj\Debug\POO 09 de fevereiro- Classes e objetos.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\POO 09 de fevereiro- Classes e objetos\obj\Debug\POO 09 de fevereiro- Classes e objetos.exe
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\POO 09 de fevereiro- Classes e objetos\obj\Debug\POO 09 de fevereiro- Classes e objetos.pdb
