@@ -16,7 +16,7 @@ namespace POO_09_de_fevereiro__Classes_e_objetos
         private string cpf;
 
 
-        public void setCodigo(int valor)
+        public void SetCodigo(int valor)
         {
             if (valor <= 0)
             {
@@ -27,11 +27,11 @@ namespace POO_09_de_fevereiro__Classes_e_objetos
                 codigo = valor;
             }
         }
-        public int getCodigo() 
+        public int GetCodigo() 
         {
             return codigo;
         }
-        public void setNome(string nome)
+        public void SetNome(string nome)
         {
             if (string.IsNullOrEmpty(nome))
             {
@@ -44,8 +44,8 @@ namespace POO_09_de_fevereiro__Classes_e_objetos
         }
 
         //Método de uma linha tipo "arrow"
-        public string getNome() => nome;
-        public void setDataNascimento(DateTime data) 
+        public string GetNome() => nome;
+        public void SetDataNascimento(DateTime data) 
         {
             if (data > DateTime.Now) 
             {
@@ -56,15 +56,15 @@ namespace POO_09_de_fevereiro__Classes_e_objetos
                 nascimento = data;
             }
         }
-        public DateTime getDataNascimento() => nascimento;
+        public DateTime GetDataNascimento() => nascimento;
         public int calculaIdade()
         {
             int idade = (int)DateTime.Now.Subtract(nascimento).TotalDays / 365;
             return idade;
         }
 
-        public string getCPF() => cpf;
-        public void setCPF(string cpf)
+        public string GetCPF() => cpf;
+        public void SetCPF(string cpf)
         {
             this.cpf = cpf;
         }
