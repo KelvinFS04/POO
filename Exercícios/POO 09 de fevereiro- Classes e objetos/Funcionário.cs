@@ -57,7 +57,7 @@ namespace POO_09_de_fevereiro__Classes_e_objetos
             }
             else
             {
-                nascimento= data;
+                nascimento = data;
             }
         }
 
