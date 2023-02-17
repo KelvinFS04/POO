@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Runtime.Remoting.Messaging;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Exercício_1
+namespace Exercício2
 {
     class Jogo
     {
@@ -13,6 +12,7 @@ namespace Exercício_1
         private string nome;
         private string categoria;
         private DateTime data_de_lançamento;
+        List<string> categorias = new List<string>() { "ação", "luta", "tiro", "esportes" };
 
         public int GetCódigo() => código;
         public void SetCódigo(int código)
@@ -27,7 +27,7 @@ namespace Exercício_1
             }
         }
         public string GetNome() => nome;
-        public void SetNome(string nome) 
+        public void SetNome(string nome)
         {
             if (string.IsNullOrEmpty(nome))
             {
@@ -41,7 +41,12 @@ namespace Exercício_1
         public string GetCategoria() => categoria;
         public void SetCategoria(string categoria)
         {
-            if (string.IsNullOrEmpty(categoria))
+            categoria.ToLower();
+            if (!categorias.Contains(categoria))
+            {
+                throw new Exception("Esta categoria não existe no contexto atual");
+            }
+            else if(string.IsNullOrEmpty(categoria))
             {
                 throw new Exception("Categoria não pode estar vazia");
             }
@@ -55,5 +60,6 @@ namespace Exercício_1
         {
             this.data_de_lançamento = data;
         }
+        
     }
 }

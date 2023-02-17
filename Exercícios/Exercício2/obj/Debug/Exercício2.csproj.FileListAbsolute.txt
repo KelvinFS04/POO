@@ -1,0 +1,8 @@
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício2\bin\Debug\Exercício2.exe.config
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício2\bin\Debug\Exercício2.exe
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício2\bin\Debug\Exercício2.pdb
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício2\obj\Debug\Exercício2.csproj.AssemblyReference.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício2\obj\Debug\Exercício2.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício2\obj\Debug\Exercício2.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício2\obj\Debug\Exercício2.exe
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício2\obj\Debug\Exercício2.pdb
