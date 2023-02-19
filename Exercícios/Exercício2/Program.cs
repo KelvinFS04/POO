@@ -83,12 +83,22 @@ namespace Exercício2
 
                 Console.WriteLine("Deseja continuar adicionando jogos? [S]/[N] \nEspaços restantes = " + (10-jogos.Count) );
                 continuar = Console.ReadLine().ToUpper();
-
                 jogos.Add(jogo);
-                Console.ReadKey();
             }
-            while (jogos.Count >= 10 && continuar == "S");
-            
+            while (jogos.Count <= 10 && continuar == "S");
+            Console.Clear();
+
+            foreach (Jogo jogo in jogos)
+            {
+                Console.WriteLine("Informações do jogo:");
+                Console.WriteLine(jogo.GetCódigo());
+                Console.WriteLine(jogo.GetNome());
+                Console.WriteLine(jogo.GetCategoria());
+                Console.WriteLine(jogo.GetData_de_lançamento());
+            }
+
+            Console.ReadKey();
+
         } 
     }
 }

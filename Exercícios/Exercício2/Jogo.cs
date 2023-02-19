@@ -19,7 +19,7 @@ namespace Exercício2
         {
             if (código <= 0)
             {
-                throw new Exception("Código não pode ser menor que 0 (zero)");
+                throw new Exception("Código não pode ser menor ou igual a 0 (zero)");
             }
             else
             {
@@ -41,10 +41,10 @@ namespace Exercício2
         public string GetCategoria() => categoria;
         public void SetCategoria(string categoria)
         {
-            categoria.ToLower();
+            categoria = categoria.ToLower();
             if (!categorias.Contains(categoria))
             {
-                throw new Exception("Esta categoria não existe no contexto atual");
+                throw new Exception("Verifique se a categoria existe ou está escrita corretamente");
             }
             else if(string.IsNullOrEmpty(categoria))
             {
@@ -58,7 +58,14 @@ namespace Exercício2
         public DateTime GetData_de_lançamento() => data_de_lançamento;
         public void SetData_de_lançamento(DateTime data)
         {
-            this.data_de_lançamento = data;
+            if(data <= DateTime.Now) 
+            {
+                this.data_de_lançamento = data;
+            }
+            else
+            {
+                throw new Exception("A data não pode ser menor que a data atual");
+            }
         }
         
     }
