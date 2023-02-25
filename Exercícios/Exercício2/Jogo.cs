@@ -46,10 +46,6 @@ namespace Exercício2
             {
                 throw new Exception("Verifique se a categoria existe ou está escrita corretamente");
             }
-            else if(string.IsNullOrEmpty(categoria))
-            {
-                throw new Exception("Categoria não pode estar vazia");
-            }
             else
             {
                 this.categoria = categoria;
