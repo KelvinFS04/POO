@@ -1,0 +1,22 @@
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício3\obj\Debug\Exercício3.csproj.AssemblyReference.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício3\obj\Debug\Exercício3.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício3\obj\Debug\Exercício3.Form1.resources
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício3\obj\Debug\Exercício3.Properties.Resources.resources
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício3\obj\Debug\Exercício3.csproj.GenerateResource.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício3\obj\Debug\Exercício3.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício3\bin\Debug\Exercício3.exe.config
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício3\bin\Debug\Exercício3.exe
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício3\bin\Debug\Exercício3.pdb
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício3\obj\Debug\Exercício3.exe
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício3\obj\Debug\Exercício3.pdb
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 3\bin\Debug\Exercício3.exe.config
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 3\bin\Debug\Exercício3.exe
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 3\bin\Debug\Exercício3.pdb
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 3\obj\Debug\Exercício3.csproj.AssemblyReference.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 3\obj\Debug\Exercício3.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 3\obj\Debug\Exercício3.Form1.resources
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 3\obj\Debug\Exercício3.Properties.Resources.resources
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 3\obj\Debug\Exercício3.csproj.GenerateResource.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 3\obj\Debug\Exercício3.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 3\obj\Debug\Exercício3.exe
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 3\obj\Debug\Exercício3.pdb

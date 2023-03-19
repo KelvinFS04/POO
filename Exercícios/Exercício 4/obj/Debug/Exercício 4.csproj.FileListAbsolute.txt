@@ -1,0 +1,11 @@
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 4\bin\Debug\Exercício 4.exe.config
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 4\bin\Debug\Exercício 4.exe
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 4\bin\Debug\Exercício 4.pdb
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 4\obj\Debug\Exercício 4.csproj.AssemblyReference.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 4\obj\Debug\Exercício 4.csproj.SuggestedBindingRedirects.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 4\obj\Debug\Exercício_4.Form1.resources
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 4\obj\Debug\Exercício_4.Properties.Resources.resources
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 4\obj\Debug\Exercício 4.csproj.GenerateResource.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 4\obj\Debug\Exercício 4.csproj.CoreCompileInputs.cache
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 4\obj\Debug\Exercício 4.exe
+C:\Users\kelvi\OneDrive\Área de Trabalho\Estudos\Faculdade\POO\Exercícios\Exercício 4\obj\Debug\Exercício 4.pdb
